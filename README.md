@@ -41,7 +41,7 @@
 
 ### 1. **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/stock-trend-analyzer.git
+git clone https://github.com/christopher11/stock-trend-analyzer.git
 cd stock-trend-analyzer
 ```
 
