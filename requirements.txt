@@ -1,6 +1,0 @@
-streamlit==1.45.1
-requests==2.32.3
-pandas==2.2.3
-openai==1.84.0
-python-dotenv==1.1.0
-ollama==0.5.1
